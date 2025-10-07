@@ -1,5 +1,14 @@
 {
-  "name": "uaaaa",
-  "age": 30,
-  "active": true
+  "pageTitleColor": "#fffffe",
+  "labelColor": "#fffffe",
+  "colorInputPlaceholder": "#fffffe",
+  "colorInputText": "#fffffe",
+  "formBg": "#fffffe",
+  "inputBg": "#fffffe",
+  "buttonTextColor": "#fffffe",
+  "buttonBg": "#fffffe",
+  "borderInput": "#fffffe",
+  "inputFocusBorder": "#fffffe",
+  "selectedStyle": "style.css",
+  "success": true
 }
